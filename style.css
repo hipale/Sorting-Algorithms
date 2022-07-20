@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+#contBefore, #contAfter {
+    display: flex;
+    font-size: 20px;
+    height: 500px;
+    background-color: lightsteelblue;
+    position: relative;
+    width: 500px;
+    margin: 20px;
+    align-items: flex-end;
+}
+.poll {
+    margin: 2px;
+    height: 100%;
+    background-color: rgb(134, 74, 74); 
+    display: flex;
+    
+}
